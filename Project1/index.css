@@ -1,0 +1,20 @@
+.container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    height: 80vh;
+    background-color: rgb(209, 130, 27);
+    width: 80vw;
+    margin-left: 100px;
+}
+.btn 
+{
+    height: 50px;
+    font-size: larger;
+    font-weight: 600;
+    border: 3px solid ;
+    border-radius: 15px;
+
+}
