@@ -1,0 +1,2 @@
+Hello I am written using fs module
+appending using fs module
